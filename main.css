@@ -1,0 +1,67 @@
+  .nav{
+    text-align: center;
+    background-color: black;
+  }
+  .nav h2 {
+  	font-size: 30px;
+  	color: white;
+  }
+  .logo {
+    height: 100px;
+    background-color: black;
+    background-position: center;
+    background-repeat: none;
+  }
+    
+
+
+.contain {
+	padding-top: 50px;
+}
+
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+	padding-top: 40px;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 60px;
+	text-align: center;
+}
+
+
+.hero {
+	background-image: url('http://www.432parkavenue.com/assets/imgs/content/views/432_View_02.jpg');
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+
+p {
+	color: #ffffff;
+	font-size: 2em;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
