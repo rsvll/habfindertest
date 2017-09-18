@@ -12,7 +12,7 @@
     background-position: center;
     background-repeat: none;
   }
-    
+
 
 
 .contain {
@@ -48,7 +48,10 @@ h2 {
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
-
+h3 {
+  color: white;
+  font-size: 50px;
+}
 
 p {
 	color: #ffffff;
